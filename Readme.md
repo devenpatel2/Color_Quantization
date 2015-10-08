@@ -9,7 +9,7 @@ $ mdkir build
 $ cd build
 $ cmake ..
 $ make
-$ ./color_quantization ../test_image.jpg 5
+$ ./color_quantization ../test_img1.jpg 5
 ```
 The output would be something like the figures below. The k-mean quantized image is saved as kmeans.jpg and the corresponding histogram is saved as hist.jpg
  
