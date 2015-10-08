@@ -1,5 +1,5 @@
 ## Color Quantization Using K-Means
-Following closely the colour quantization by " " I have written by own version in C/C++, and an alternate representation of the 
+Following closely the colour quantization by [Adrian Rosebrock](http://www.pyimagesearch.com/2014/05/26/opencv-python-k-means-color-clustering/) I have written by own version in C/C++, and an alternate representation of the 
 colour histogram.
 
 To run the code: 
